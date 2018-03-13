@@ -1,0 +1,30 @@
+C:\Users\vladi\source\repos\KLab_1\KLab_1\bin\Debug\KLab_1.exe.config
+C:\Users\vladi\source\repos\KLab_1\KLab_1\bin\Debug\KLab_1.exe
+C:\Users\vladi\source\repos\KLab_1\KLab_1\bin\Debug\KLab_1.pdb
+C:\Users\vladi\source\repos\KLab_1\KLab_1\obj\Debug\KLab_1.csprojResolveAssemblyReference.cache
+C:\Users\vladi\source\repos\KLab_1\KLab_1\obj\Debug\KLab_1.Form1.resources
+C:\Users\vladi\source\repos\KLab_1\KLab_1\obj\Debug\KLab_1.Properties.Resources.resources
+C:\Users\vladi\source\repos\KLab_1\KLab_1\obj\Debug\KLab_1.csproj.GenerateResource.Cache
+C:\Users\vladi\source\repos\KLab_1\KLab_1\obj\Debug\KLab_1.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\KLab_1\KLab_1\obj\Debug\KLab_1.exe
+C:\Users\vladi\source\repos\KLab_1\KLab_1\obj\Debug\KLab_1.pdb
+C:\Users\vladi\Desktop\кб\Исxодная\KLab_1\bin\Debug\KLab_1.exe.config
+C:\Users\vladi\Desktop\кб\Исxодная\KLab_1\bin\Debug\KLab_1.exe
+C:\Users\vladi\Desktop\кб\Исxодная\KLab_1\bin\Debug\KLab_1.pdb
+C:\Users\vladi\Desktop\кб\Исxодная\KLab_1\obj\Debug\KLab_1.csprojResolveAssemblyReference.cache
+C:\Users\vladi\Desktop\кб\Исxодная\KLab_1\obj\Debug\KLab_1.Form1.resources
+C:\Users\vladi\Desktop\кб\Исxодная\KLab_1\obj\Debug\KLab_1.Properties.Resources.resources
+C:\Users\vladi\Desktop\кб\Исxодная\KLab_1\obj\Debug\KLab_1.csproj.GenerateResource.Cache
+C:\Users\vladi\Desktop\кб\Исxодная\KLab_1\obj\Debug\KLab_1.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\кб\Исxодная\KLab_1\obj\Debug\KLab_1.exe
+C:\Users\vladi\Desktop\кб\Исxодная\KLab_1\obj\Debug\KLab_1.pdb
+C:\Users\vladi\Desktop\кб\Исxодная — копия\KLab_1\bin\Debug\KLab_1.exe.config
+C:\Users\vladi\Desktop\кб\Исxодная — копия\KLab_1\bin\Debug\KLab_1.exe
+C:\Users\vladi\Desktop\кб\Исxодная — копия\KLab_1\bin\Debug\KLab_1.pdb
+C:\Users\vladi\Desktop\кб\Исxодная — копия\KLab_1\obj\Debug\KLab_1.csprojResolveAssemblyReference.cache
+C:\Users\vladi\Desktop\кб\Исxодная — копия\KLab_1\obj\Debug\KLab_1.Form1.resources
+C:\Users\vladi\Desktop\кб\Исxодная — копия\KLab_1\obj\Debug\KLab_1.Properties.Resources.resources
+C:\Users\vladi\Desktop\кб\Исxодная — копия\KLab_1\obj\Debug\KLab_1.csproj.GenerateResource.Cache
+C:\Users\vladi\Desktop\кб\Исxодная — копия\KLab_1\obj\Debug\KLab_1.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\кб\Исxодная — копия\KLab_1\obj\Debug\KLab_1.exe
+C:\Users\vladi\Desktop\кб\Исxодная — копия\KLab_1\obj\Debug\KLab_1.pdb

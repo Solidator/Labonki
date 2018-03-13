@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html lang="ru">
+    <head>
+        <meta charset="utf-8" />
+        <meta content="игра, ключи, game, steam, стратегия, шутер, гонки, rpg, uplay, 
+              origin, gog" name="keywords">
+        <meta content="Интернет-магазин игр .Продажа лицензионных ключей steam, uplay,
+               origin, gog, battle.net по разумным ценам." name="description">
+        <title>Обратная связь</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <link href="css/bootstrap.css" rel="stylesheet">
+        <script src="js/bootstrap.js"></script>
+        <script src="js/jquery.js"></script>
+        <script>
+            function up() {
+                window.scrollTo(0,0);
+            }
+        </script>
+
+        <style type="text/css">
+			body
+			{
+				color: #242818;
+                font-family: 'Open Sans';
+                background-image: url(background.jpg);
+                background-attachment: fixed;
+                overflow-x: hidden;
+			}
+		</style>
+    </head>
+    <body>
+        <button class = "btn btn-primary" type="button" onclick="up()" style="position: fixed; bottom: 5%; right: 5%" ><span class="glyphicon glyphicon-arrow-up"></span></button>
+            <nav class="navbar navbar-inverse">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="Lab_1.html" style="font-family: cursive"><span class="glyphicon glyphicon-home"></span> GameShop</a>
+                    </div>
+                    <ul class="nav navbar-nav">
+                        <li><a href="Lab_1.html#genres">Игры по жанрам</a></li>
+                        <li><a href="Lab_1.html#popular">Популярные</a></li>
+                        <li><a href="Lab_1.html#sale">Распродажа</a></li>
+                        <li><a href="Lab_1.html#task">Сайты со схожей тематикой</a></li>
+                    </ul>
+                 </div>
+            </nav>
+        <div class="container-fluid">
+            <div class="col-md-offset-1">
+               <h1 style="font-size: 30px">Форма обратной связи</h1>
+
+                <div class="row">
+                    <textarea class="col-md-6" rows="10" placeholder="Что вы хотите нам сказать?" style="resize: none"></textarea>
+                </div>
+
+                <div class="row" style="margin-top: 20px">
+                    <p>ФИО</p>
+                    <input type="text" class="col-md-3" placeholder="Ваше ФИО"><br><br>
+                    <p>Номер телефона</p> 
+                    <div class="input-group col-md-3">
+                        <span class="input-group-addon">+7</span>
+                        <input type="text" class="form-control">
+                    </div>
+                    <button class = "btn btn-primary" type="button" style="margin-top: 10px">Отправить</button>
+                </div>
+           </div>
+       </div>
+    </body>
+</html>
