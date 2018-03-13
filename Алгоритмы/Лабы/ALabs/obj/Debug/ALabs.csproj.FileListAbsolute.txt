@@ -1,0 +1,13 @@
+C:\Users\vladi\source\repos\ALabs\ALabs\bin\Debug\ALabs.exe.config
+C:\Users\vladi\source\repos\ALabs\ALabs\bin\Debug\ALabs.exe
+C:\Users\vladi\source\repos\ALabs\ALabs\bin\Debug\ALabs.pdb
+C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.csprojResolveAssemblyReference.cache
+C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.Properties.Resources.resources
+C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.csproj.GenerateResource.Cache
+C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.exe
+C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.pdb
+C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.Main.resources
+C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.Forms.EnhancedSortingForm.resources
+C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.Forms.FindImageForm.resources
+C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.Forms.SortingForm.resources
