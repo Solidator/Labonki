@@ -11,3 +11,13 @@ C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.Main.resources
 C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.Forms.EnhancedSortingForm.resources
 C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.Forms.FindImageForm.resources
 C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.Forms.SortingForm.resources
+C:\Users\vladi\source\repos\ALabs\ALabs\bin\Debug\x86\e_sqlite3.dll
+C:\Users\vladi\source\repos\ALabs\ALabs\bin\Debug\x64\e_sqlite3.dll
+C:\Users\vladi\source\repos\ALabs\ALabs\bin\Debug\SQLite-net.dll
+C:\Users\vladi\source\repos\ALabs\ALabs\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\vladi\source\repos\ALabs\ALabs\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\vladi\source\repos\ALabs\ALabs\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\vladi\source\repos\ALabs\ALabs\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\vladi\source\repos\ALabs\ALabs\bin\Debug\SQLite-net.pdb
+C:\Users\vladi\source\repos\ALabs\ALabs\bin\Debug\SQLite-net.xml
+C:\Users\vladi\source\repos\ALabs\ALabs\obj\Debug\ALabs.Forms.SequenceProcessingForm.resources
